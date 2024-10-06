@@ -35,7 +35,7 @@ To view this project locally:
 1. Clone the repository to your local machine using `git clone <repository-url>`.
 2. Navigate to the `index.html` file in your browser to explore the portfolio.
 
-Alternatively, you can visit the live website (if deployed).
+Alternatively, you can visit the live website.
 
 ## Contact
 
