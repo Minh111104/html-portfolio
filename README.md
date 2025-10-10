@@ -44,3 +44,7 @@ Feel free to contact me through the contact page in this portfolio or reach out 
 - **LinkedIn:** [Minh Nguyen Profile](https://www.linkedin.com/in/minhnguyen1111/)
 
 Thank you for checking out my portfolio!
+
+## License
+This project is created for educational purpose.
+
